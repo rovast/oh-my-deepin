@@ -9,4 +9,11 @@ tint2 是一款任务栏管理软件。支持消息提示，高度样式自定�
 
 preview
 
-![preview-tint2-png](https://raw.githubusercontent.com/rovast/rovast-github-assets/master/images/tint2.png) <br />
+消息高亮，透明背景，工作区1
+![preview-tint3-png](https://raw.githubusercontent.com/rovast/rovast-github-assets/master/images/tint2_3.png) <br />
+
+无正在运行的任务，工作区2
+![preview-tint2-png](https://raw.githubusercontent.com/rovast/rovast-github-assets/master/images/tint2_2.png) <br />
+
+打开ximnd的效果
+![preview-tint-png](https://raw.githubusercontent.com/rovast/rovast-github-assets/master/images/tint2.png) <br />

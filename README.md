@@ -3,6 +3,8 @@
 
 ## gnome3
 
+效果预览
+![preview-gnome3](https://raw.githubusercontent.com/rovast/rovast-github-assets/master/images/gnome3.png) <br />
 ### settings
 
 **export and import settings**

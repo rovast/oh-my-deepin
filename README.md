@@ -3,7 +3,7 @@
 
 ## gnome3
 
-#### settings
+### settings
 
 **export and import settings**
 
@@ -13,7 +13,7 @@ gconftool-2 --load gconf_dump.xml
 ```
 
 
-#### extensions
+### extensions
 
 > 安装 gnome 拓展，推荐在 chromium 中安装 gnome 拓展，之后可以在网页中直接启用
 

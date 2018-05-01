@@ -1,6 +1,35 @@
 # oh-my-deepin
 深度操作系统（Deepin Linux）的常用配置
 
+## gnome3
+
+#### settings
+
+**export and import settings**
+
+```shell
+gconftool-2 --dump / > gconf_dump.xml
+gconftool-2 --load gconf_dump.xml
+```
+
+
+#### extensions
+
+> 安装 gnome 拓展，推荐在 chromium 中安装 gnome 拓展，之后可以在网页中直接启用
+
+**Dash to dock**
+
+将 dock 挪动到底部
+
+**Unite**
+
+配置 gnome 为 unity 风格
+
+**User themes**
+
+配置各种主题必备
+
+
 ## tint2
 
 tint2 是一款任务栏管理软件。支持消息提示，高度样式自定义 [我的 tin2rc 配置](https://github.com/rovast/oh-my-deepin/blob/master/tint2/tint2rc)

@@ -1,0 +1,17 @@
+<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="shift control button1" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="QuickChangeScheme" />
+  <action id="ReformatCode" />
+  <action id="Vcs.ReformatCommitMessage" />
+</keymap>
